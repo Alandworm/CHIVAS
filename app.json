@@ -1,0 +1,21 @@
+{
+  "name": "CHIVAS",
+  "description": "tesbot",
+  "scripts": {
+  },
+  "env": {
+    "undefined": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/Alandworm/CHIVAS"
+    }
+  ]
+}
